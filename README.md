@@ -1,2 +1,4 @@
 # projectEcommerce
-Immitating the current E-commerce
+
+# Requirements needed here are "creating 
+# Immitating the current E-commerce
